@@ -1,0 +1,14 @@
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Data files
+*.edf
+*.bdf
+*.fif
+
+# Local testing
+test.py
+__pycache__/
+.ipynb_checkpoints/
